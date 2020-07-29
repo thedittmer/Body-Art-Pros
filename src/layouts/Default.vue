@@ -16,7 +16,7 @@
     </main>
 
     <footer class="footer">
-      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
+      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }} | Body Art Pros | All Rights Reserved</span>
     </footer>
 
   </div>
