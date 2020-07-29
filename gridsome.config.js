@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Body Art Pros',
-  siteDescription: ' Private Tattoo & Piercing Shop in Neosho, Missouri',
+  siteDescription: 'A Private Tattoo & Piercing Shop in Neosho, Missouri',
 
   templates: {
     Post: '/:title',

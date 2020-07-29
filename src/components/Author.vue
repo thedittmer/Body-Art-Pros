@@ -6,7 +6,7 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+			A Private Tattoo & Piercing Shop in Neosho, Missouri
 		</p>
 
 		<p class="author__links">
